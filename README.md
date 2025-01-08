@@ -1,6 +1,4 @@
-<div align="center">
-  <img height="200" src="https://i.ibb.co.com/KxSnJGt/walid-dp.png"  />
-</div>
+<a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
 ###
 
