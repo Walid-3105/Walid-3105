@@ -48,6 +48,19 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
+### 🚀 My Current Focus  
+# 1.Optimizing React Components
+Focus on improving the performance of my React components by using techniques like memoization, lazy loading, and React’s useMemo or useCallback hooks.
+
+# 2.Enhancing User Experience
+Work on improving user interactions by adding smooth transitions, animations, and custom notifications using tools like React Toastify and Daisy UI.
+
+# 3.Building Scalable Backend with Node.js and MongoDB
+Enhance my backend skills by building APIs that can efficiently handle large amounts of data, ensuring smooth integration with the front-end.
+
+# 4.Testing and Debugging
+Focus on improving the quality of my code by writing unit and integration tests for your components using tools like Jest and React Testing Library.
+
 ###
 
 <h3 align="left">📫Let's Connect!</h3>
@@ -60,7 +73,7 @@
 
 ###
 
-<h3 align="left">My Status</h3>
+<h3 align="left">💡My Status</h3>
 
 ###
 
