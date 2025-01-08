@@ -56,7 +56,7 @@
 
 ###
 
-<p align="left">Email : saawald03@gmail.com<br>LinkedIn: https://www.linkedin.com/in/syed-abdullah-al-walid-2b23a6332/<br>Portfolio: https://walid-protfolio-website.netlify.app/</p>
+<p align="left">Email : [saawalid03@gmailcom]<br>LinkedIn: https://www.linkedin.com/in/syed-abdullah-al-walid-2b23a6332/<br>Portfolio: https://walid-protfolio-website.netlify.app/</p>
 
 ###
 
