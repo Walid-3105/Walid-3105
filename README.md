@@ -5,7 +5,7 @@
 
 ###
 
-<h1 align="center">SA Al Walid</h1>
+``<h1>SA Al Walid</h1>``
 
 ###
 
