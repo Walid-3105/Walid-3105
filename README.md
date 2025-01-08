@@ -20,8 +20,8 @@
 
 <p align="left">- 🚀 Always learning and exploring tools like React Router v7 and Daisy UI. <br>- 🎓 Student at the English Department, Bandarban Govt College<br>- 💻 10+ Projects Completed, including Movie Hive and Online Store Platforms.  <br>-🎯 Goals: Become Mern Stack Developer by 2025.</p>
 
-<br/>
 ###
+<br/>
 
 
 <h2 align="left">🔧Technologies & Tools</h2>
@@ -64,11 +64,11 @@ Enhance my backend skills by building APIs that can efficiently handle large amo
 
 * 4.**Testing and Debugging:**
 Focus on improving the quality of my code by writing unit and integration tests for your components using tools like Jest and React Testing Library.
-<br/>
+
 
 
 ###
-
+<br/>
 <h3 align="left">📫Let's Connect!</h3>
 
 ###
@@ -76,8 +76,8 @@ Focus on improving the quality of my code by writing unit and integration tests 
 - LinkedIn: [SA Al Walid](https://www.linkedin.com/in/syed-abdullah-al-walid-2b23a6332/)
 - GitHub: [Walid-3105](https://github.com/Walid-3105)
 
-<br/>
 ###
+<br/>
 
 <h3 align="left">💡My Status</h3>
 
@@ -87,7 +87,7 @@ Focus on improving the quality of my code by writing unit and integration tests 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Walid-3105&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Walid-3105&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-<br/>
+
 
 
 <h3 align="left">⚡ Fun Fact</h3>
