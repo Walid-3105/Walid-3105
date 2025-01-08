@@ -55,8 +55,10 @@
 <h3 align="left">📫Let's Connect!</h3>
 
 ###
+- Email: [saawalid03@gmail.com](mailto:saawalid03@gmail.com)
+- LinkedIn: [SA Al Walid](https://www.linkedin.com/in/syed-abdullah-al-walid-2b23a6332/)
+- GitHub: [Walid-3105](https://github.com/Walid-3105)
 
-<p align="left">Email : [saawalid03@gmailcom](https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox)<br>LinkedIn: https://www.linkedin.com/in/syed-abdullah-al-walid-2b23a6332/<br>Portfolio: https://walid-protfolio-website.netlify.app/</p>
 
 ###
 
