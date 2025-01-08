@@ -1,5 +1,7 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
-
+<div align='center'>
+  <img src='https://raw.githubusercontent.com/Walid-3105/Walid-3105/refs/heads/main/walid-Github-banner.jpg'/>
+</div>
 ###
 
 <h1 align="center">SA Al Walid</h1>
