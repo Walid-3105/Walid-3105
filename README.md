@@ -20,8 +20,10 @@
 
 <p align="left">- 🚀 Always learning and exploring tools like React Router v7 and Daisy UI. <br>- 🎓 Student at the English Department, Bandarban Govt College<br>- 💻 10+ Projects Completed, including Movie Hive and Online Store Platforms.  <br>-🎯 Goals: Become Mern Stack Developer by 2025.</p>
 
-###
 
+
+
+###
 
 
 <h2 align="left">🔧Technologies & Tools</h2>
