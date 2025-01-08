@@ -22,6 +22,8 @@
 
 ###
 
+
+
 <h2 align="left">🔧Technologies & Tools</h2>
 
 ###
@@ -48,6 +50,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="40" alt="photoshop logo"  />
 </div>
 
+
+
 ### 🚀 My Current Focus  
 * 1.**Optimizing React Components:**
 Focus on improving the performance of my React components by using techniques like memoization, lazy loading, and React’s useMemo or useCallback hooks.
@@ -61,6 +65,8 @@ Enhance my backend skills by building APIs that can efficiently handle large amo
 * 4.**Testing and Debugging:**
 Focus on improving the quality of my code by writing unit and integration tests for your components using tools like Jest and React Testing Library.
 
+
+
 ###
 
 <h3 align="left">📫Let's Connect!</h3>
@@ -69,6 +75,8 @@ Focus on improving the quality of my code by writing unit and integration tests 
 - Email: [saawalid03@gmail.com](mailto:saawalid03@gmail.com)
 - LinkedIn: [SA Al Walid](https://www.linkedin.com/in/syed-abdullah-al-walid-2b23a6332/)
 - GitHub: [Walid-3105](https://github.com/Walid-3105)
+
+
 
 
 ###
@@ -81,6 +89,7 @@ Focus on improving the quality of my code by writing unit and integration tests 
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Walid-3105&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=rose_pine&hide_border=true&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Walid-3105&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
+
 
 
 <h3 align="left">⚡ Fun Fact</h3>
